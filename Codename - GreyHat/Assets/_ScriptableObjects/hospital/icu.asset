@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e1c4896cdcc714494ada21471549e6, type: 3}
+  m_Name: icu
+  m_EditorClassIdentifier: 
+  isDirectory: 1
+  fileName: /icu
+  lastModificationDate: 
+  lastModificationUser: 
+  fileContent: 
+  childs:
+  - {fileID: 11400000, guid: ae1a84642807c0646a76b831a935ea76, type: 2}
+  - {fileID: 11400000, guid: 103598bd0be42eb4b8b62637027f5803, type: 2}
+  parent: {fileID: 11400000}

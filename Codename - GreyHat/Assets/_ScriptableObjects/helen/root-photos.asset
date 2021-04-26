@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e1c4896cdcc714494ada21471549e6, type: 3}
+  m_Name: root-photos
+  m_EditorClassIdentifier: 
+  isDirectory: 1
+  fileName: photos
+  lastModificationDate: 15-Aug-2020
+  lastModificationUser: Helen
+  fileContent: 
+  childs:
+  - {fileID: 11400000, guid: d0a409d8ed042cb45af2b6e94e1de951, type: 2}
+  parent: {fileID: 11400000, guid: a481a6d57b847ce47be26d3691a802bc, type: 2}
