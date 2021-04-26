@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#File too big
+"Codename - GreyHat/Library/il2cpp_cache/linkresult_114880E20250ADC24DFC8493EA8959E7/build.bc"
+*.bc
