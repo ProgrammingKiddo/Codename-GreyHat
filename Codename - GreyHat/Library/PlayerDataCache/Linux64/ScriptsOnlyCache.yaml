@@ -40,19 +40,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9372}
+      Script: {instanceID: 9374}
     - Class: 114
-      Script: {instanceID: 9434}
+      Script: {instanceID: 9436}
     - Class: 114
-      Script: {instanceID: 9440}
+      Script: {instanceID: 9442}
     - Class: 114
-      Script: {instanceID: 9446}
+      Script: {instanceID: 9448}
     - Class: 114
-      Script: {instanceID: 9454}
+      Script: {instanceID: 9452}
     - Class: 114
-      Script: {instanceID: 9490}
+      Script: {instanceID: 9456}
+    - Class: 114
+      Script: {instanceID: 9460}
     - Class: 114
       Script: {instanceID: 9492}
+    - Class: 114
+      Script: {instanceID: 9494}
+    - Class: 114
+      Script: {instanceID: 9504}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -83,37 +89,37 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9434}
+      Script: {instanceID: 9436}
     - Class: 114
-      Script: {instanceID: 9440}
+      Script: {instanceID: 9442}
     - Class: 114
-      Script: {instanceID: 9446}
+      Script: {instanceID: 9448}
     - Class: 114
-      Script: {instanceID: 9450}
-    - Class: 114
-      Script: {instanceID: 9454}
+      Script: {instanceID: 9452}
     - Class: 114
       Script: {instanceID: 9456}
     - Class: 114
       Script: {instanceID: 9458}
     - Class: 114
-      Script: {instanceID: 9462}
+      Script: {instanceID: 9460}
     - Class: 114
-      Script: {instanceID: 9482}
+      Script: {instanceID: 9464}
     - Class: 114
-      Script: {instanceID: 9490}
+      Script: {instanceID: 9484}
     - Class: 114
       Script: {instanceID: 9492}
     - Class: 114
-      Script: {instanceID: 9502}
+      Script: {instanceID: 9494}
     - Class: 114
-      Script: {instanceID: 9766}
+      Script: {instanceID: 9504}
     - Class: 114
-      Script: {instanceID: 10086}
+      Script: {instanceID: 9768}
     - Class: 114
-      Script: {instanceID: 10176}
+      Script: {instanceID: 10088}
     - Class: 114
-      Script: {instanceID: 10238}
+      Script: {instanceID: 10178}
+    - Class: 114
+      Script: {instanceID: 10240}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1592,4 +1598,4 @@ ScriptsOnlyBuild:
   - Assets/_Scenes/TerminalScene.unity
   - Assets/_Scenes/FinalScene.unity
   playerPath: C:/Users/Ichig/Documents/Repositories/UnityProjects/Builds/Codename
-    - GreyHat (Linux)/Codename-GreyHat (Linux_x86_64).x86_64
+    - GreyHat (Linux)/Codename-GreyHat.x86_64
