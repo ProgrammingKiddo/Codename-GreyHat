@@ -271,6 +271,10 @@ public class Interpreter : MonoBehaviour
             default:
                 response.Add(terminal.ColorString("help [command]", Color.green) + ": gets general help about the usage of the terminal.");
                 response.Add("\t: gets specific help about the indicated command.");
+                response.Add("\tIf a command is followed by something else between brackets [], that means you can optionally write something more besides it, but it's not mandatory.");
+                response.Add("Like, for example, writing " + terminal.ColorString("help ls", Color.green) + " calls the 'help' command with 'ls' as an option.");
+                response.Add("\tIf a command is followed by something else, but is not between brackets, that means you HAVE to write something more besides it, like "
+                    + terminal.ColorString("connect ipAddress", Color.green) + ".");
                 break;
         }
     }

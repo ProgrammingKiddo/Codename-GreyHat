@@ -6,6 +6,8 @@ ScriptsOnlyBuild:
     - NetworkSystem.File
     - NetworkSystem.PC
     - TerminalManager
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -585,7 +587,7 @@ ScriptsOnlyBuild:
     className: AnimationPlayableAsset
   - hash:
       serializedVersion: 2
-      Hash: 39dab55aedd99ba5bc8bc33adafe7ca8
+      Hash: 020e18169d6526ea5a05fdb51f0b5468
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: TerminalManager

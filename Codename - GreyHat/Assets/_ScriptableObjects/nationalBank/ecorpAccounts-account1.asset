@@ -15,7 +15,7 @@ MonoBehaviour:
   isDirectory: 0
   fileName: acc-340
   lastModificationDate: 24-Apr-2021
-  lastModificationUser: '[???]'
+  lastModificationUser: ???
   fileContent: nationalBank/account1.txt
   childs: []
   parent: {fileID: 11400000, guid: 07e33381ec4030545aa33148bd2a067c, type: 2}

@@ -21,4 +21,4 @@ it as an anonymous tip to the Police. We'll deny any connection with you or know
 try to play us.
 
 It should go without saying, but if you need to check what we've suited this terminal with,
-run <color="#00FF00">list-commands</color> and see for yourself.
+run <color="#00FF00">list-commands 1</color>, <color="#00FF00">list-commands 2</color>, or <color="#00FF00">list-commands 3</color>, and see for yourself.

@@ -22,8 +22,10 @@ public class TerminalManager : MonoBehaviour
     public GameObject userInputLine;
     public ScrollRect terminalScroll;
     public GameObject messageList;
+    public GameObject downArrow;
 
     private Interpreter interpreter;
+    private bool isInputOutOfView = false;
     #endregion
 
 
@@ -44,6 +46,7 @@ public class TerminalManager : MonoBehaviour
         {
             terminalInput.Select();
         }
+        ShowDownArrow();
     }
 
     #endregion
@@ -63,12 +66,7 @@ public class TerminalManager : MonoBehaviour
 
                 //Add the interpretation lines
                 int lines = AddInterpreterLines(interpreter.Interpret(userInput));
-                if ((GetComponentsInChildren<HorizontalLayoutGroup>().Length -(lines+1)) > 40)
-                {
-                    TrimHistory(lines+1);
-                    ScrollToBottom(lines+1);
-                }
-                ScrollToBottom(lines);
+                //ScrollToBottom(lines);
             }
             // Whether the user entered some text or not, we maintain focus on the input field
             RepositionUserInput();
@@ -183,6 +181,34 @@ public class TerminalManager : MonoBehaviour
     private void ScrollToTop()
     {
         terminalScroll.velocity = new Vector2(0, -650);
+    }
+
+    private void ShowDownArrow()
+    {
+        RectTransform scrollMaskRect = terminalScroll.GetComponent<RectTransform>();
+        RectTransform inputRectTransform = terminalInput.GetComponent<RectTransform>();
+
+        // If the input field is visible (it's on screen)
+        if (Camera.main.WorldToScreenPoint(terminalInput.transform.position).y > 0)
+        {
+            Debug.Log("Viewing input.");
+            isInputOutOfView = false;
+            if (downArrow.activeInHierarchy == true)
+            {
+                downArrow.SetActive(false);
+            }
+        }
+        // If the input field is not visible (it's off screen)
+        else
+        {
+            Debug.Log("Not viewing input.");
+            isInputOutOfView = true;
+            if (downArrow.activeInHierarchy == false)
+            {
+                downArrow.SetActive(true);
+            }
+        }
+
     }
 
     private void ClearInputField()
