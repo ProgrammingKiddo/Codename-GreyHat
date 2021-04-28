@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e1c4896cdcc714494ada21471549e6, type: 3}
+  m_Name: ecorpAccounts-account1
+  m_EditorClassIdentifier: 
+  isDirectory: 0
+  fileName: acc-340.op
+  lastModificationDate: 24-Apr-2021
+  lastModificationUser: ???
+  fileContent: nationalBank/account1.txt
+  childs: []
+  parent: {fileID: 11400000, guid: 07e33381ec4030545aa33148bd2a067c, type: 2}

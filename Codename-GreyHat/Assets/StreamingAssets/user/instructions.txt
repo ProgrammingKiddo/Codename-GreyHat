@@ -1,0 +1,24 @@
+Hello.
+
+You must have been briefed already about the matter if you're reading this, but
+just to make sure you don't forget, I've left you this memo here.
+
+Our company, E-Corp, has recently been the target of a cyberattack, which led to 50 million dollars
+being substracted from various of our accounts. This is no petty theft, nor is it a
+happy-go-lucky amateur. This was a coordinated hit from an unknown assailant.
+
+We've contacted you because of your reputation. Impecable tracking and social engineering skills,
+doesn't adhere to any cause nor believe in good or evil, only in cold, hard cash.
+A true grey hat.
+
+
+This terminal is a very special one. We've granted it access to most of our company's servers
+and services (the ones that you need to know of, anyway). Use this access to investigate
+and trace the source of the attack.
+
+Once you've identified the ip address of the culprit, use the <color="#00FF00">send</color> command to send
+it as an anonymous tip to the Police. We'll deny any connection with you or knowledge of your actions, so don't
+try to play us.
+
+It should go without saying, but if you need to check what we've suited this terminal with,
+run <color="#00FF00">list-commands 1</color>, <color="#00FF00">list-commands 2</color>, or <color="#00FF00">list-commands 3</color>, and see for yourself.

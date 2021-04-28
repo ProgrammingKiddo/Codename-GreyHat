@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee7c06680db69a64cbf6a86acdd75f15, type: 3}
+  m_Name: helenPC
+  m_EditorClassIdentifier: 
+  ipAddress: 168.80.136.136
+  ipMask: 
+  pcName: helenParr
+  password: Parr
+  rootDirectory: {fileID: 11400000, guid: a481a6d57b847ce47be26d3691a802bc, type: 2}
+  workingDirectory: {fileID: 11400000, guid: a481a6d57b847ce47be26d3691a802bc, type: 2}

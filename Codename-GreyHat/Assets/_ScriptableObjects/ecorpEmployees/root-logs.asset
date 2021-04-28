@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e1c4896cdcc714494ada21471549e6, type: 3}
+  m_Name: root-logs
+  m_EditorClassIdentifier: 
+  isDirectory: 0
+  fileName: logs.reg
+  lastModificationDate: 24-Apr-2021
+  lastModificationUser: System
+  fileContent: ecorpEmployees/log.txt
+  childs: []
+  parent: {fileID: 11400000, guid: eed22ecb9f55a464c86bf229e784c59b, type: 2}

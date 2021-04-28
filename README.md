@@ -3,6 +3,10 @@ A text-based adventure game developed in **Unity** for the [LudumDare 48th GameJ
 
 The original LDJam entry for this game can be found [here](https://ldjam.com/events/ludum-dare/48/codenamegreyhat). This game is also hosted on [itch.io](https://train27.itch.io/codenamegreyhat).
 
+![Exemplary gameplay](screenshots/Codename-GreyHat.gif)
+
+## Screenshots
+
 ![Introduction screenshot](screenshots/screenshot1.png)
 
 ![Commands help screenshot](screenshots/screenshot2.png)

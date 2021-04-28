@@ -1,0 +1,29 @@
+﻿[21-Apr-2021]: Something horrible must have happened at the hospital today.
+		Mother won't talk about it, she seems disdraught, fragile, distant. It pains me to see her like that.
+		I have to find out what has happened today.
+[22-Apr-2021]: I can't f*cking believe it, after all my mother's done for that hospital
+		and for the people that work there, they just treat her like that? And for that b*stard?
+		I feel so ashamed to even work for a company like this.
+[23-Apr-2021]: Today I've found out one of the execs had deleted my employee entry from the database.
+		There's no mixup, I'm getting fired asap.
+		Ran home crying.
+		Mother still won't talk.
+		Pain.
+[24-Apr-2021]: I've heard in the news that E-Corp has suffered a massive cyberattack. Serves them right.
+		All in all, it's probably bad news for me, because they'll surely try to make up their losses
+		by cutting on employees' settlements.
+		And yet... it seems like a warm small ray of sunshine on my face.
+[25-Apr-2021]: The sunshine has completely disappeared.
+		Today someone passed an envelope under my door. It was filled with threats, accusing me of
+		the cyberattack and the grand theft.
+		Mind racing, heart beating, chest might explode.
+		I know they won't denounce me directly, not after the settlement with the hospital the other day
+		since it could go public as a result.
+		Oh, the irony.
+		However it begs another question, if they won't be the ones to denounce me... then who will?
+[29-Apr-2021]: Someone's following in my footsteps. I don't know how but I still have access to the e-corp
+		employees server. Someone's been fiddling around with it, I'm sure of it.
+		Are they trying to set me up? All I've managed to scrap are the first three octets of
+		an unknown server: <color="#0000FF">125.23.14</color> and the first six bits from the fourth octet: '111101'.
+		This all seems real fishy, there's something wrong. Maybe there's something more to it?
+		I'm being set up.

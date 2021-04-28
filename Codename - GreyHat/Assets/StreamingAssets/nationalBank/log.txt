@@ -1,4 +1,0 @@
-﻿22-Apr-2021 [StClaire] transacted on 'account1'
-17-Apr-2021 [e-corp] transacted on 'account2'
-10-Mar-2021 [e-corp] transacted on 'account1'
-2-Mar-2021 [e-corp] transacted on 'account2'
